@@ -1,8 +1,8 @@
-# react-boilerplate
+# React Redux Boilerplate
 
 ----------- References for project creation from Design to development ---------------
 
-Proptypes
+- Proptypes
 
 https://reactjs.org/docs/typechecking-with-proptypes.html
 
