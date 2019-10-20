@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import { Provider as ReduxProvider } from 'react-redux';
 import './App.css';
-import FormicForm from './components/Form';
+// import FormicForm from './components/Form';
 import ToDO from './containers/todo';
 import configureStore from './redux/store';
 
@@ -16,7 +16,7 @@ class App extends PureComponent {
             <h1 className="App-title">Redux React Boilerplate</h1>
           </header>
           <ToDO />
-          <FormicForm />
+          {/* <FormicForm /> */}
         </div>
       </ReduxProvider>
     );
