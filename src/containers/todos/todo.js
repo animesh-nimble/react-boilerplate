@@ -14,7 +14,7 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import DeleteIcon from '@material-ui/icons/Delete';
 
-import ACTIONS from '../redux/action';
+import ACTIONS from '../../redux/todo/action';
 
 const styles = theme => ({
   root: {
